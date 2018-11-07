@@ -14,11 +14,11 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5",
-    "styled-components": "^3.4.6",
+    "styled-components": "^3.4.10",
     "svg-sprite-loader": "^3.9.2"
   },
   "devDependencies": {
-    "docz-theme-default": "^0.11.1",
-    "docz": "^0.11.1"
+    "docz-theme-default": "^0.12.9",
+    "docz": "^0.12.9"
   }
 }
